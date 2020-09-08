@@ -1,6 +1,6 @@
 <template>
  <div>
-  <h1>{{lol}}</h1>
+  <img src="img/FaceBook2.png" alt="">
  </div>
 </template>
 
@@ -8,7 +8,7 @@
 export default {
  data(){
   return{
-   lol: 'looool'
+   info: null
   }
  }
 }
